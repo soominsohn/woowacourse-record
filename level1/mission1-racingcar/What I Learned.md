@@ -1,0 +1,13 @@
+# 미션1 자동차경주
+
+[자바의 final 키워드](https://github.com/soominsohn/woowacourse-record/blob/main/level1/mission1-racingcar/%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B4%20final%20%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%AF%E1%84%83%E1%85%B3.md)
+
+[Constant는 어디서 관래해야 할까.md](https://github.com/soominsohn/woowacourse-record/blob/main/level1/mission1-racingcar/Constant%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B5%E1%84%89%E1%85%A5%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%A2%E1%84%92%E1%85%A2%E1%84%8B%E1%85%A3%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%81%E1%85%A1.md)
+
+[이펙티브자바 아이템 6 - 불필요한 객체생성을 피하라](https://github.com/soominsohn/woowacourse-record/blob/dc64195767980812c19578fff10b0775b479bf70/level1/mission1-racingcar/%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B5%E1%84%87%E1%85%B3%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%20%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A6%E1%86%B7%206%20-%20%E1%84%87%E1%85%AE%E1%86%AF%E1%84%91%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%91%E1%85%B5%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1.md)
+
+[인터페이스를 사용하여 테스트하기 좋은 구조로 만들기 (전략패턴)](https://github.com/soominsohn/woowacourse-record/blob/main/level1/mission1-racingcar/%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%90%E1%85%A5%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%8B%E1%85%A7%20%E1%84%90%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%20%E1%84%8C%E1%85%A9%E1%87%82%E1%84%8B%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%85%E1%85%A9%20%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.md)
+
+[****[AssertJ Exception Assertions] 예외를 테스트하는 방법](https://github.com/soominsohn/woowacourse-record/blob/dc64195767980812c19578fff10b0775b479bf70/level1/mission1-racingcar/%5BAssertJ%20Exception%20Assertions%5D%20%E1%84%8B%E1%85%A8%E1%84%8B%E1%85%AC%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%90%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8.md)
+
+[Private Method도 테스트해야하는가?](https://github.com/soominsohn/woowacourse-record/blob/main/level1/mission1-racingcar/Private%20Method%E1%84%83%E1%85%A9%20%E1%84%90%E1%85%A6%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%92%E1%85%A2%E1%84%8B%E1%85%A3%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%E1%84%80%E1%85%A1.md)
