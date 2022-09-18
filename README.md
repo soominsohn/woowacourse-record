@@ -16,10 +16,10 @@
 
 | Project | Period | Repository | What I Learned |
 |:-----:|:-----:|:---:|:---:|
-|자동차 경주 <br>|`2022-02-09` ~ `2022-02-21`|[Github Repository](https://github.com/soominsohn/java-racingcar)|[What I Learned - RacingCar]()|
-|로또 <br>|`2022-02-22` ~ `2022-03-07`|[Github Repository](https://github.com/soominsohn/java-lotto)|[What I Learned - Lotto]()|
-|블랙잭 <br>|`2022-03-08` ~ `2022-03-21`|[Github Repository](https://github.com/soominsohn/java-racingcar)|[What I Learned - Blackjack]()|
-|체스 <br>|`2022-03-22` ~ `2022-04-07`|[Github Repository](https://github.com/soominsohn/java-racingcar)|[What I Learned - Chess]()|. 
+|자동차 경주 <br>|`2022-02-09` ~ `2022-02-21`|[Github Repository](https://github.com/soominsohn/java-racingcar)|[What I Learned - RacingCar](https://github.com/soominsohn/woowacourse-record/blob/b40b15884a42d6d82f237dfe8700e45507969823/level1/mission1-racingcar/What%20I%20Learned.md)|
+|로또 <br>|`2022-02-22` ~ `2022-03-07`|[Github Repository](https://github.com/soominsohn/java-lotto)|[What I Learned - Lotto](https://github.com/soominsohn/woowacourse-record/blob/b40b15884a42d6d82f237dfe8700e45507969823/level1/mission2-lotto/What%20I%20Learned.md)|
+|블랙잭 <br>|`2022-03-08` ~ `2022-03-21`|[Github Repository](https://github.com/soominsohn/java-racingcar)|[What I Learned - Blackjack](https://github.com/soominsohn/woowacourse-record/blob/b40b15884a42d6d82f237dfe8700e45507969823/level1/mission3-blackjack/What%20I%20Learned.md)|
+|체스 <br>|`2022-03-22` ~ `2022-04-07`|[Github Repository](https://github.com/soominsohn/java-racingcar)|[What I Learned - Chess](https://github.com/soominsohn/woowacourse-record/blob/b40b15884a42d6d82f237dfe8700e45507969823/level1/mission4-chess/What%20I%20Learned.md)|. 
 
 <br>
 <br>
@@ -35,10 +35,10 @@
 
 | Project | Period | Repository | What I Learned |
 |:-----:|:-----:|:---:|:---:|
-|웹 체스 <br>|`2022-04-19` ~ `2022-05-02`|[Github Repository](https://github.com/soominsohn/jwp-chess)|[What I Learned - JwpChess]()|
-|지하철 노선도 관리 <br>|`2022-05-03` ~ `2022-05-16`|[Github Repository](https://github.com/soominsohn/atdd-subway-map)|[What I Learned - SubwayMap]()|
-|지하철 경로 조회 <br>|`2022-05-17` ~ `2022-05-25`|[Github Repository](https://github.com/soominsohn/atdd-subway-path)|[What I Learned - SubwayPath]()|
-|장바구니 <br>|`2022-05-26` ~ `2022-06-09`|[Github Repository](https://github.com/soominsohn/jwp-shopping-cart)|[What I Learned - ShoppingCart]()|. 
+|웹 체스 <br>|`2022-04-19` ~ `2022-05-02`|[Github Repository](https://github.com/soominsohn/jwp-chess)|[What I Learned - JwpChess](https://github.com/soominsohn/woowacourse-record/blob/b40b15884a42d6d82f237dfe8700e45507969823/level2/mission1-jwpchess/What%20I%20Learned.md)|
+|지하철 노선도 관리 <br>|`2022-05-03` ~ `2022-05-16`|[Github Repository](https://github.com/soominsohn/atdd-subway-map)|[What I Learned - SubwayMap](https://github.com/soominsohn/woowacourse-record/blob/b40b15884a42d6d82f237dfe8700e45507969823/level2/mission2-subwaymap/What%20I%20Learned.md)|
+|지하철 경로 조회 <br>|`2022-05-17` ~ `2022-05-25`|[Github Repository](https://github.com/soominsohn/atdd-subway-path)|[What I Learned - SubwayPath](https://github.com/soominsohn/woowacourse-record/blob/b40b15884a42d6d82f237dfe8700e45507969823/level2/mission3-subwaypath/What%20I%20Learned.md)|
+|장바구니 <br>|`2022-05-26` ~ `2022-06-09`|[Github Repository](https://github.com/soominsohn/jwp-shopping-cart)|[What I Learned - ShoppingCart](https://github.com/soominsohn/woowacourse-record/blob/b40b15884a42d6d82f237dfe8700e45507969823/level2/mission4-shoppingcart/What%20I%20Learned.md)|. 
 
 
 
@@ -59,7 +59,7 @@
 
 
 ### What I Learned
-#### [What I Learned]()
+#### [What I Learned](https://github.com/soominsohn/woowacourse-record/blob/b40b15884a42d6d82f237dfe8700e45507969823/level3/What%20I%20Learned.md)
 - Spring
 - JPA
 - Infra  
