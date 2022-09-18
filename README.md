@@ -42,4 +42,29 @@
 
 
 
+## Level3: 팀 프로젝트
+
+### **학습 목표**
+
+- 스프링 프레임워크를 이용해 웹 애플리케이션을 개발  
+- 미션을 통해 학습한 내용을 팀 프로젝트에 적용  
+- 기획, 개발, 배포 일련의 과정을 팀 프로젝트를 통해 경험해본다.  
+
+### About Project
+
+#### 프로젝트 이름: 터놓고
+#### 프로젝트 설명: 우아한테크코스 면담 예약 서비스
+#### Repository: [터놓고 레포지토리](https://github.com/woowacourse-teams/2022-ternoko)
+#### 서비스 페이지: [터놓고](https://ternoko.site)
+
+
+### What I Learned
+#### [What I Learned]()
+- Spring
+- JPA
+- Infra  
+
+
+
+
 
