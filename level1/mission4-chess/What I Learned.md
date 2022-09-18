@@ -1,9 +1,9 @@
-# 미션1 자동차경주
+# 미션4 체스
 
-[try-with-resources](level1/mission2-lotto/방어적 복사.md)
+[try-with-resources](https://github.com/soominsohn/woowacourse-record/blob/7aac3b7c919192f20de1c31f0d7552ec757b7cab/level1/mission4-chess/try-with-resources%EB%9E%80.md)
 
-[정적팩토리메서드란?](https://github.com/soominsohn/woowacourse-record/blob/main/level1/mission1-racingcar/Constant%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B5%E1%84%89%E1%85%A5%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%A2%E1%84%92%E1%85%A2%E1%84%8B%E1%85%A3%20%E1%84%92%E1%85%A1%E1%86%AF%E1%84%81%E1%85%A1.md)
+[정적팩토리메서드란?](https://github.com/soominsohn/woowacourse-record/blob/7aac3b7c919192f20de1c31f0d7552ec757b7cab/level1/mission4-chess/%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%9E%80%3F.md)
 
-[자바 comparable과 comparator](https://github.com/soominsohn/woowacourse-record/blob/dc64195767980812c19578fff10b0775b479bf70/level1/mission1-racingcar/%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B5%E1%84%87%E1%85%B3%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%20%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A6%E1%86%B7%206%20-%20%E1%84%87%E1%85%AE%E1%86%AF%E1%84%91%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%91%E1%85%B5%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1.md)  
+[자바 comparable과 comparator](https://github.com/soominsohn/woowacourse-record/blob/7aac3b7c919192f20de1c31f0d7552ec757b7cab/level1/mission4-chess/%EC%9E%90%EB%B0%94%20comparable%EA%B3%BC%20comparator.md)  
 
-[dto란 무엇일까?](https://github.com/soominsohn/woowacourse-record/blob/dc64195767980812c19578fff10b0775b479bf70/level1/mission1-racingcar/%E1%84%8B%E1%85%B5%E1%84%91%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B5%E1%84%87%E1%85%B3%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1%20%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A6%E1%86%B7%206%20-%20%E1%84%87%E1%85%AE%E1%86%AF%E1%84%91%E1%85%B5%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%91%E1%85%B5%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1.md)  
+[dto란 무엇일까?](https://github.com/soominsohn/woowacourse-record/blob/7aac3b7c919192f20de1c31f0d7552ec757b7cab/level1/mission4-chess/dto%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%3F.md)  
