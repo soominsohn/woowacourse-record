@@ -9,7 +9,7 @@
 
 [백엔드 개발/배포 서버 분리과정](https://github.com/soominsohn/woowacourse-record/blob/7aac3b7c919192f20de1c31f0d7552ec757b7cab/level3/%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%20%EB%B0%B0%ED%8F%AC%20%EC%84%9C%EB%B2%84%20%EB%B6%84%EB%A6%AC%EA%B3%BC%EC%A0%95.md)
 
-[FE 배포자동화 도입기](INFRA%207e3c4d3c0666499b8247ae2f71bc8add/FE%20%E1%84%87%E1%85%A2%E1%84%91%E1%85%A9%E1%84%8C%E1%85%A1%E1%84%83%E1%85%A9%E1%86%BC%E1%84%92%E1%85%AA%20%E1%84%83%E1%85%A9%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%80%E1%85%B5%20fe0a6114664f4d95a66b9e894bfd5575.md)
+[FE 배포자동화 도입기](https://github.com/soominsohn/woowacourse-record/blob/2cd90ba19cbe64d55a1114ff68123b3a22c4af23/level3/FE%20%EB%B0%B0%ED%8F%AC%EC%9E%90%EB%8F%99%ED%99%94%20%EB%8F%84%EC%9E%85%EA%B8%B0.md)
 
 [HTTPS적용 방법](https://github.com/soominsohn/woowacourse-record/blob/7aac3b7c919192f20de1c31f0d7552ec757b7cab/level3/HTTPS%EC%A0%81%EC%9A%A9%EB%B0%A9%EB%B2%95.md)
 
